@@ -1,0 +1,80 @@
+body {
+	background: #EEEEEE;
+}
+
+#content {
+background: #fff;
+margin-left: auto;
+margin-right: auto;
+width: 700px;
+max-width: 80%;
+padding: 9px;
+margin-top: 10px;
+    
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+h1 {
+	font-family: 'Josefin Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-size: 5em;
+	text-align: center;
+	font-weight: 500;
+	color: blue;
+}
+
+h2 {
+font-family: 'Sanchez', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+text-transform: uppercase;
+font-size: 1.7em;
+text-align: center;
+font-weight: 500;
+/* font-style: italic; */
+color: white;
+margin-top: -50px;
+background: red;
+padding: 6px;
+}
+
+h3 {
+	font-family: 'Actor', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	text-transform: none;
+	font-size: 1.5em;
+	text-align: left;
+	font-weight: 500;
+	color: #920000;
+	margin-left: 13px;
+
+}
+
+p {
+ margin-left: 13px;
+ margin-right: 4px;
+ line-height: 20px;
+}
+
+
+a {
+	color: #0067db;
+}
+
+#widget
+{
+margin-left: 12px;
+}
+
+.disclaimer {
+text-align: center;
+padding: 20px;
+width: 587px;
+max-width: 80%;
+margin-top: 19px;
+border: 1px solid grey;
+margin-left: auto;
+margin-right: auto;
+/* background: rgb(250, 250, 250); */
+font-family: sans-serif;
+font-weight: 100;
+font-size: .9em;
+
+}
